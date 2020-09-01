@@ -1,0 +1,50 @@
+
+                                      ARENA Simulation Results
+                                            Mahadi Hassan
+
+                                  Summary for Replication 1 of 1
+
+Project: Unnamed Project                                             Run execution date : 2/11/2020
+Analyst: Mahadi Hassan                                               Model revision date: 2/11/2020
+
+Replication ended at time      : 1.3134302 Hours 
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Entity 1.VATime                             .99350     (Insuf)    .59468     1.2635         10    
+Entity 1.NVATime                            .00000     (Insuf)    .00000     .00000         10    
+Entity 1.WaitTime                           .00000     (Insuf)    .00000     .00000         10    
+Entity 1.TranTime                           .00000     (Insuf)    .00000     .00000         10    
+Entity 1.OtherTime                          .00000     (Insuf)    .00000     .00000         10    
+Entity 1.TotalTime                          .99350     (Insuf)    .59468     1.2635         10    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Entity 1.WIP                                7.5641     (Insuf)    .00000     10.000     .00000    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Counter 1                                        10  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Entity 1.NumberIn                           10.000    
+Entity 1.NumberOut                          10.000    
+System.NumberOut                            10.000    
+
+
+Simulation run time: 0.05 minutes.
+Simulation run complete.

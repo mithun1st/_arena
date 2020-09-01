@@ -1,0 +1,8 @@
+[RESOURCES]
+[VARIABLES]
+Batch 1.NumberOut
+Separate 2.NumberOut Dup
+Create 1.NumberOut
+Dispose 1.NumberOut
+Dispose 4.NumberOut
+Separate 2.NumberOut Orig

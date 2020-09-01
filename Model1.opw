@@ -1,0 +1,5 @@
+[RESOURCES]
+[VARIABLES]
+Batch 1.NumberOut
+Create 1.NumberOut
+Dispose 1.NumberOut
